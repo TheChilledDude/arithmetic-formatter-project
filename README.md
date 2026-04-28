@@ -8,7 +8,7 @@ This project contains a function called arithmetic_arranger that formats a list 
 - Optionally displays the answers
 - Includes input validation with clear error messages
 
- ##How It Works 
+ ## How It Works 
  1. Check the number of problems
     - If there are more than 5 problems, return an error message.
  2. Loop through each problem
