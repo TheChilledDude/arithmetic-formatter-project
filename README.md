@@ -8,14 +8,6 @@ This project contains a Python function called arithmetic_arranger that formats 
 - Optionally displays the answers
 - Includes input validation with clear error messages
 
-## Purpose
-The function takes arithmetic problems written as strings and arranges them like this:
-
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
------    ------    ----    -----
-If show_answers = True, it also prints the answers underneath.
-
  ## How It Works 
  
  1. Input
