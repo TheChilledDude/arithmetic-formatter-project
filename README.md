@@ -21,6 +21,7 @@ This project contains a Python function called arithmetic_arranger that formats 
      - numbers containing non-digit characters
      - numbers longer than 4 digits
   3. Formatting
+     
      Each problem is arranged vertically with:
      - the first number on top
      - the operator and second number below
