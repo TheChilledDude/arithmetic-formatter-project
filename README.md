@@ -33,9 +33,9 @@ This project contains a Python function called arithmetic_arranger that formats 
          - top row
          - bottom row
          - dash row
-  7. Optional Answer Calculation
+  4. Optional Answer Calculation
      - Execute the code using eval(f"{num1} {operator} {num2}
-  8. Combine rows
+  5. Combine rows
       - Join problems with 4 spaces
       - Return formatted string
   
