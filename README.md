@@ -38,4 +38,22 @@ This project contains a Python function called arithmetic_arranger that formats 
   5. Combine rows
       - Join problems with 4 spaces
       - Return formatted string
+  ## Skills Practised
+
+     - Functions
+     - Lists
+     - Loops
+     - Conditional statements
+     - String methods
+     - String formatting with rjust()
+     - Input validation
+     - Building formatted output
+
+  ## Installation
+  Make sure Python is installed. Then run your script normally.
+
+  ## Author
+
+  Created by Unathi Malangabi.
+
   
