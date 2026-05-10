@@ -46,7 +46,7 @@ This project contains a Python function called arithmetic_arranger that formats 
          - top row
          - bottom row
          - dash row
-         - 
+           
   4. Optional Answer Calculation
      - The result is calculated using:
         eval(f"{num1} {operator} {num2}")
