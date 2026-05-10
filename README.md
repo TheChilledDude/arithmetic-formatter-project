@@ -15,6 +15,7 @@ This project contains a Python function called arithmetic_arranger that formats 
  The function accepts:
     - problems: a list of arithmetic problem strings.
     - show_answers: an optional Boolean value(False by default) 
+    
 2. Validation rules
   The function checks for the following errors:
      - More than 5 problems
