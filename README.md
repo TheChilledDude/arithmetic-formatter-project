@@ -40,7 +40,7 @@ This project contains a Python function called arithmetic_arranger that formats 
   4. Optional Answer Calculation
      - The result is calculated using:
         eval(f"{num1} {operator} {num2}")
-  5. Combine rows
+  4. Combine rows
       - Problems are joined with 4 spaces.
       - The formatted string is returned.
         
