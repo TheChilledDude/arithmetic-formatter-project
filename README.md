@@ -17,13 +17,14 @@ This project contains a Python function called arithmetic_arranger that formats 
     - show_answers: an optional Boolean value(False by default) 
     
 2. Validation rules
+   
   The function checks for the following errors:
      - More than 5 problems
      - Operators other than + or -
      - Numbers containing non-digit characters
      - Numbers longer than 4 digits
      
-  3. Formatting
+  4. Formatting
      
      Each problem is arranged vertically with:
      - The first number on top
@@ -38,7 +39,7 @@ This project contains a Python function called arithmetic_arranger that formats 
          - top row
          - bottom row
          - dash row
-  4. Optional Answer Calculation
+  5. Optional Answer Calculation
      - The result is calculated using:
         eval(f"{num1} {operator} {num2}")
   4. Combine rows
