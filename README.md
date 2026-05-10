@@ -21,14 +21,19 @@ This project contains a Python function called arithmetic_arranger that formats 
 2. Validation rules
    
   The function checks for the following errors:
+  
      - More than 5 problems
+     
      - Operators other than + or -
+     
      - Numbers containing non-digit characters
+     
      - Numbers longer than 4 digits
      
-  4. Formatting
+  3. Formatting
      
      Each problem is arranged vertically with:
+     
      - The first number on top
      - The operator and second number below
      - A line of dashes underneath
@@ -41,10 +46,12 @@ This project contains a Python function called arithmetic_arranger that formats 
          - top row
          - bottom row
          - dash row
-  5. Optional Answer Calculation
+         - 
+  4. Optional Answer Calculation
      - The result is calculated using:
         eval(f"{num1} {operator} {num2}")
-  4. Combine rows
+       
+  5. Combine rows
       - Problems are joined with 4 spaces.
       - The formatted string is returned.
         
