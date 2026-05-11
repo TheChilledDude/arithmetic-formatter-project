@@ -39,7 +39,7 @@ This project contains a Python function called arithmetic_arranger that formats 
      - A line of dashes underneath
      - The answer on the last line if requested
      - Determine the width using:
-     - 
+
         width = max(len(num1), len(num2)) + 2
        
      - Numbers are right-aligned using:
