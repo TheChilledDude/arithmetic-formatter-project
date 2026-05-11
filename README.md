@@ -39,19 +39,27 @@ This project contains a Python function called arithmetic_arranger that formats 
      - A line of dashes underneath
      - The answer on the last line if requested
      - Determine the width using:
+     - 
         width = max(len(num1), len(num2)) + 2
+       
      - Numbers are right-aligned using:
+       
         .rjust()
+       
      - Build:
+       
          - top row
          - bottom row
          - dash row
            
   4. Optional Answer Calculation
+     
      - The result is calculated using:
+       
         eval(f"{num1} {operator} {num2}")
        
-  5. Combine rows
+  6. Combine rows
+     
       - Problems are joined with 4 spaces.
       - The formatted string is returned.
         
@@ -67,6 +75,7 @@ This project contains a Python function called arithmetic_arranger that formats 
      - Building formatted output
 
   ## Installation
+  
   Make sure Python is installed. Then run your script normally.
 
   ## Author
